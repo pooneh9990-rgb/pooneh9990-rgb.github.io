@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Allura&family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400&family=Great+Vibes&family=Italianno&family=Parisienne&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn&display=swap"  
+        rel="stylesheet"> 
+  <title>callista</title>
+  <style>
+  #first {
+     font-family: "Allura", cursive;
+    font-size: 70px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+     
+  }
+  body {
+    background-color: #F4EBDD;
+    color: #827568;
+}
+   #gif {
+      width: 300px;
+      display: block; margin: auto;"
+   }
+   h6 {
+       text-align: center;
+       font-family:'Vazirmatn', sans-serif;   
+       letter-spacing: 4px;
+       transform: scaleX(1);
+       margin-top: 1px;
+       line-height: 1;
+       position: relative;
+       top: -40px;
+       font-size:10px;
+   }
+   h3 {
+      text-align: center;
+      font-family:'Vazirmatn', sans-serif;   
+      padding-top: 40px;
+   }
+   h4{
+      font-family: "Allura", cursive;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    padding-top: 0px;
+    padding-bottom: 10px;
+   }
+    #one {
+    font-family: "Allura", cursive;
+    font-size: 20px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    text-align: center;
+    color: #6b5a4a;
+    }
+  </style>
+</head>
+<body>
+  <h1 id="first">
+callista
+  </h1>
+   <h6>──⠀ ⠀   اولین  تبادلات  ریپی  کیرولی  در  روبیکا     ⠀⠀──
+      </br>
+      </br>
+      ⠀ leader: @kmvanta
+   </h6>
+   <img id="gif"
+  src="https://i.supaimg.com/f987748d-faaa-4b9b-9068-9bf6df9a7175/37e431e7-5c30-46a2-8356-0179774fd6a2.gif" 
+  alt="GIF"
+>
+   <h3>﹎</h3>
+   <div id="one">
+  
+   <div>
+</body>
+</html>
